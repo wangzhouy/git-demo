@@ -1,5 +1,4 @@
 hello atguigu hello git 22222222222
-<<<<<<< HEAD
 hello-master
 hello-hot-fix
 hot-fix
